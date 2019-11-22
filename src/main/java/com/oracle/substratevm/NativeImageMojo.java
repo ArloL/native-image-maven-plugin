@@ -259,7 +259,7 @@ public class NativeImageMojo extends AbstractMojo {
 
     private String withExeSuffix(String basename) {
         if (OS.getCurrent() == OS.WINDOWS) {
-            return basename + ".exe";
+            return basename + ".cmd";
         }
         return basename;
     }

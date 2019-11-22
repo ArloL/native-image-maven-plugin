@@ -27,9 +27,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.graalvm.nativeimage</groupId>
+    <groupId>com.github.ArloL</groupId>
     <artifactId>native-image-maven-plugin</artifactId>
-    <version>19.3.1-SNAPSHOT</version>
+    <version>master-SNAPSHOT</version>
 
     <packaging>maven-plugin</packaging>
 
